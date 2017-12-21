@@ -1,3 +1,4 @@
+#something I forget
 # Uses python3
 n = int(input())
 a = [int(x) for x in input().split()]
